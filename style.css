@@ -1,0 +1,38 @@
+*{
+    font-family: 'Mina', sans-serif;
+}
+#header {
+    width:90%;
+    max-width:940px;
+    border:10px solid orange;
+    margin: auto;
+    font-size: 22pt;
+}
+#header h1{
+    text-align:center;
+}
+#navbar {
+    width:90%;
+    max-width:940px;            
+    margin: auto;
+    text-align: center;
+    background-color: #ecf0f1;
+    padding:10px; 
+ }
+#navbar a {
+    text-decoration:none;
+    color:dimgrey;
+    padding: 30px;
+}
+.post {
+    width:90%;
+    max-width:960px;
+    text-align:center;
+    margin:auto;
+    padding:20px;
+    box-shadow: 10px 10px #34495e;
+     }
+#footer {
+    text-align:center;
+    font-size: 20pt
+}
