@@ -23,6 +23,7 @@
     text-decoration:none;
     color:dimgrey;
     padding: 30px;
+    padding: 10px;
 }
 #navbar a:hover {
     background-color: tomato
