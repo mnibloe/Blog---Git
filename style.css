@@ -24,6 +24,9 @@
     color:dimgrey;
     padding: 30px;
 }
+#navbar a:hover {
+    background-color: tomato
+}
     .post {
     width:90%;
     max-width:960px;
